@@ -1,4 +1,10 @@
 
+/**
+ * Write a description of class Job here.
+ * 
+ * @author (your name) 
+ * @version (a version number or a date)
+ */
   public class Job implements Runnable 
 {
     private int jobNumber;
